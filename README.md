@@ -85,12 +85,20 @@ I am a curious builder who enjoys switching between roles 👩‍💻 (Full Stac
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
 <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
 </br>
-## Let's Connect
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/vimala-i-6b150b2aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vimala%20Illgunoori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainweb/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/hussainweb)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hussainweb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain.web/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainweb)
-[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hussainweb)
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/u/hussainweb)
+  <a href="https://github.com/vimala2309">
+    <img src="https://img.shields.io/badge/GitHub-vimala2309-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/iamvimala/">
+    <img src="https://img.shields.io/badge/LeetCode-iamvimala-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+
+
