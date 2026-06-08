@@ -77,8 +77,8 @@ I am a curious builder who enjoys switching between roles 👩‍💻 (Full Stac
 ### 📊 Github Stats
 <a href='https://github.com/Vimala2309/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/Vimala2309/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Vimala2309/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
