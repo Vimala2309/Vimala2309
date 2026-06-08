@@ -24,42 +24,42 @@ I am a curious builder who enjoys switching between roles 👩‍💻 (Full Stac
 ### 🔨 Languages and Tools:
 
 <p align="left">  
-<a href="[https://github.com/harish-sethuraman/readme-components](https://docs.python.org/3/)"> 
+<a href="https://docs.python.org/3/"> 
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&animation=spin&svgfill=ffe873" alt="Python Logo" width="120">  
  </a>
-  <a href="https://github.com/harish-sethuraman/readme-components"> 
+  <a href="https://en.cppreference.com/w/c"> 
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=A8B9CC" alt="C Logo" width="120" > 
   </a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
+  <a href="https://dev.java/learn/">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=f89820" alt="Java Logo" width="120" >
 </a>
    
-  <a href="https://github.com/harish-sethuraman/readme-components">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=C-Sharp&svgfill=239120" alt="C# Logo" width="120" > 
   </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
+    <a href="https://react.dev/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React Logo" width="120" >
 </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://nodejs.org/docs/latest/api/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
 
-  <a href="https://github.com/harish-sethuraman/readme-components">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.typescriptlang.org/docs/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.typescriptlang.org/docs/">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=E34F26" alt="HTML5 Logo" width="120" >
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://dev.mysql.com/doc/">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL&svgfill=4479A1" alt="SQL Logo" width="120" >
 </a>
-<a>
+<a href="https://www.mongodb.com/docs/">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=47A248" alt="MongoDB Logo" width="120" >
 </a>
 
