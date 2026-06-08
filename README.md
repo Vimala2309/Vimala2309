@@ -67,20 +67,16 @@ I am a curious builder who enjoys switching between roles 👩‍💻 (Full Stac
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+## 📊 GitHub Stats
 
-</a>
-### 📊 Github Stats
-<a href='https://github.com/Vimala2309/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Vimala2309/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Vimala2309/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vimala2309&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimala2309&layout=compact&theme=radical" height="180em"/>
+</p>
 
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimala2309&theme=radical"/>
+</p>
 
 <br>
 
