@@ -24,7 +24,7 @@ I am a curious builder who enjoys switching between roles 👩‍💻 (Full Stac
 ### 🔨 Languages and Tools:
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components"> 
+<a href="[https://github.com/harish-sethuraman/readme-components](https://docs.python.org/3/)"> 
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Python&animation=spin&svgfill=ffe873" alt="Python Logo" width="120">  
  </a>
   <a href="https://github.com/harish-sethuraman/readme-components"> 
