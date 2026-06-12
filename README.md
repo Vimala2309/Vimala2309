@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Vimala's%20github.&font=Fira%20Code&center=true&width=440&height=45&color=2ecc71&vCenter=true&pause=1000&size=22" alt="Welcome Message" >
 </div>
-I am a curious builder who enjoys switching between roles 👩‍💻 (Full Stack Developer 🌐, AI/ML Explorer 🤖, Cloud Enthusiast ☁️, and Problem Solver 🧩) depending on what the challenge demands. I love transforming ideas into applications 🚀, exploring emerging technologies 💡, and continuously learning while creating solutions that make an impact ✨.
+I am a curious builder who enjoys switching between roles 👩‍💻 Full Stack Developer 🌐, AI/ML Explorer 🤖, Cloud Enthusiast ☁️, and Problem Solver 🧩 depending on what the challenge demands. I love transforming ideas into applications 🚀, exploring emerging technologies 💡, and continuously learning while creating solutions that make an impact ✨.
 
 <br/>
 
